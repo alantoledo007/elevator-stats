@@ -16,6 +16,3 @@ client contiene el cliente, ReactJs y dentro de api se encuentra el servidor Nod
 5. Configuarar variables de entorno, esto se hace duplicando el archivo `.env.example` bajo el nombre `.env`
 6. Dentro de .env se deben incorporar las credenciales de MySQL y el puerto (preferentemente 3001, ya que en el puerto 3000 corre ReactJs, el cliente).
 6. Ejecutar `ỳarn start` o `npm start`.
-
-## Camino facil
-http://elevator-stats.ddns.net
